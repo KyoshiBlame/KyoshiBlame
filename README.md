@@ -24,7 +24,7 @@ I'm learning Go backend development and building projects with REST API, Postgre
 
 A Go concurrency simulation project with generator, dispatcher, central storage, equipment groups, workers, priorities and semaphore-based limits.
 
-### ToDo REST API
+### todoky REST API
 
 Backend REST API project with Go, Gin, PostgreSQL, Docker and SQL migrations.
 
