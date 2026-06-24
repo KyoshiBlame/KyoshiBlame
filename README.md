@@ -37,3 +37,4 @@ Backend REST API project with Go, Gin, PostgreSQL, Docker and SQL migrations.
 - Logging
 - Testing
 - Concurrency patterns
+- Network
