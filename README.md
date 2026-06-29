@@ -26,7 +26,7 @@ A Go concurrency simulation project with generator, dispatcher, central storage,
 
 ### todoky REST API
 
-Backend REST API project with Go, Gin, PostgreSQL, Docker and SQL migrations.
+Backend REST API project with Go, PostgreSQL, Docker and SQL migrations.
 
 ## Currently learning
 
