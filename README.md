@@ -1,6 +1,6 @@
 # Hi, I'm Nikita 👋
 
-I'm learning Go backend development and building projects with REST API, PostgreSQL, Docker and concurrency patterns.
+I'm learning Go backend development and building projects.
 
 ## About me
 
