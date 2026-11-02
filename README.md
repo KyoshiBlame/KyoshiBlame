@@ -24,9 +24,9 @@ I'm learning Go backend development and building projects with REST API, Postgre
 
 A Go concurrency simulation project with generator, dispatcher, central storage, equipment groups, workers, priorities and semaphore-based limits.
 
-### todoky REST API
+### RoshPit event service
 
-Backend REST API project with Go, PostgreSQL, Docker and SQL migrations.
+Backend REST API project with Go, PostgreSQL, Docker and SQL migrations, gRPC, Apache Kafka, Redis, Prometheus, Mock testing.
 
 ## Currently learning
 
@@ -38,3 +38,6 @@ Backend REST API project with Go, PostgreSQL, Docker and SQL migrations.
 - Testing
 - Concurrency patterns
 - Network
+- Redis
+- Apache Kafka
+- gRPC
